@@ -3,7 +3,7 @@
    sudo -s
    mkdir docker_test
    cd docker_test
-2.  Coздаем приложение python 3 app.py
+2.  Coздаем простое приложение python 3 - приветствие app.py
    nano app.py
 print "HELLO Z!"
 
