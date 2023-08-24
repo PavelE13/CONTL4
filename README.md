@@ -23,6 +23,7 @@
 
 5. Собираем докерфайл
    docker build -t my-python-app  (обычный режим).
+   
    docker build -it my-python-app  (интерактивный режим).
 7. Запускаем докерфайл
    docker run my-python-app
