@@ -22,6 +22,7 @@
     CMD ["python3", "app.py"]
 
 5. Собираем докерфайл
+   
    docker build -t my-python-app  (обычный режим).
    
    docker build -it my-python-app  (интерактивный режим).
